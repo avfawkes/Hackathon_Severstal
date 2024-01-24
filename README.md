@@ -1,4 +1,13 @@
+![image](https://github.com/avfawkes/Hackathon_Severstal/assets/65026452/469a86c9-fa33-440c-b1be-a6962557b9a9)
+
 # Hackathon_Severstal
+![Jupyter](https://img.shields.io/badge/Jupyter-%23f37726?logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-%234d77cf?logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23424672)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23105278)
+![Sklearn](https://img.shields.io/badge/Sklearn-%23ff9c34?logo=scikit-learn&logoColor=white)
+
 **Тема:** "Анализ контрагентов в разрезе своевременной оплаты."
 
 **Задание:** Построить модель машинного обучения, которая сможет прогнозировать своевременность поступления оплаты от клиента.
@@ -27,7 +36,3 @@
   4. Обучение
      - прогон на разных моделях ML с разными наборами признаков
      - построение моделей ML под разные критерии
-    
-  
-
-
