@@ -1,4 +1,4 @@
-![image](https://github.com/avfawkes/Hackathon_Severstal/assets/65026452/469a86c9-fa33-440c-b1be-a6962557b9a9)
+[![image](https://github.com/avfawkes/Hackathon_Severstal/assets/65026452/469a86c9-fa33-440c-b1be-a6962557b9a9)](https://serverchallenge.ru)
 
 # Hackathon_Severstal
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23f37726?logo=jupyter&logoColor=white)
@@ -7,6 +7,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23424672)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23105278)
 ![Sklearn](https://img.shields.io/badge/Sklearn-%23ff9c34?logo=scikit-learn&logoColor=white)
+
+https://serverchallenge.ru/
 
 **Тема:** "Анализ контрагентов в разрезе своевременной оплаты."
 
